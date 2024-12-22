@@ -26,8 +26,8 @@ body, html {
 }
 
 .logo {
-    width: 204px;
-    height: 122px;
+    width: 170px;
+    height: auto;
 }
 
 /* Navbar Section */
@@ -64,7 +64,7 @@ body, html {
 /* Headline Section */
 .headline {
     text-align: center;
-    margin-top: 50px;
+    margin-top: -100px;
 }
 
 /* Headline Section */
@@ -85,6 +85,7 @@ body, html {
 
 /* Subtext Section */
 .subtext {
+    margin-top: -180px;
     text-align: center;
     font-size: 1.7rem;
     font-weight: 300;
@@ -94,6 +95,7 @@ body, html {
 
 /* Get Started Button */
 .get-started-btn {
+    margin-top: -130px;
     padding: 15px 40px;
     border: none;
     border-radius: 40px;
@@ -102,6 +104,6 @@ body, html {
     font-size: 1.2rem;
     font-weight: 500;
     cursor: pointer;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 
